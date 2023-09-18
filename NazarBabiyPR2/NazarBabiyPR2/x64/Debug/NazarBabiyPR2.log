@@ -1,0 +1,14 @@
+﻿  FileName.c
+C:\Users\User\source\repos\NazarBabiyPR2\NazarBabiyPR2\FileName.c(18,10): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int (*)[80]'
+C:\Users\User\source\repos\NazarBabiyPR2\NazarBabiyPR2\FileName.c(18,10): message : this argument is used by a conversion specifier
+C:\Users\User\source\repos\NazarBabiyPR2\NazarBabiyPR2\FileName.c(19,9): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+C:\Users\User\source\repos\NazarBabiyPR2\NazarBabiyPR2\FileName.c(24,77): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\User\source\repos\NazarBabiyPR2\NazarBabiyPR2\FileName.c(24,77): message : placeholders and their parameters expect 2 variadic arguments, but 3 were provided
+C:\Users\User\source\repos\NazarBabiyPR2\NazarBabiyPR2\FileName.c(29,81): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\User\source\repos\NazarBabiyPR2\NazarBabiyPR2\FileName.c(29,81): message : placeholders and their parameters expect 2 variadic arguments, but 3 were provided
+C:\Users\User\source\repos\NazarBabiyPR2\NazarBabiyPR2\FileName.c(39,10): warning C4477: 'scanf_s' : format string '%c' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+C:\Users\User\source\repos\NazarBabiyPR2\NazarBabiyPR2\FileName.c(39,10): message : this argument is used by a conversion specifier
+C:\Users\User\source\repos\NazarBabiyPR2\NazarBabiyPR2\FileName.c(42,10): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int (*)[80]'
+C:\Users\User\source\repos\NazarBabiyPR2\NazarBabiyPR2\FileName.c(42,10): message : this argument is used by a conversion specifier
+C:\Users\User\source\repos\NazarBabiyPR2\NazarBabiyPR2\FileName.c(43,9): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+  NazarBabiyPR2.vcxproj -> C:\Users\User\source\repos\NazarBabiyPR2\x64\Debug\NazarBabiyPR2.exe
